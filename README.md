@@ -1,11 +1,11 @@
-# 🌟 Projeto Favoritos
+# Projeto Favoritos
 
 Seja bem-vindo(a) ao repositório colaborativo **Favoritos**!  
-Aqui, vamos praticar Git, GitHub e colaboração em equipe enquanto compartilhamos um pouco dos nossos gostos pessoais. 🚀
+Aqui, vamos praticar Git, GitHub e colaboração em equipe enquanto compartilhamos um pouco dos nossos gostos pessoais. 
 
 ## 📌 Objetivo
 
-Criar uma coleção de **páginas web simples**, desenvolvidas pelos alunos, cada uma contendo informações sobre algo favorito de cada participante — pode ser um herói, uma comida, um lugar, um desenho, um jogo... use a criatividade! 🧠💡
+Criar uma coleção de **páginas web simples**, desenvolvidas pelos alunos, cada uma contendo informações sobre algo favorito de cada participante — pode ser um herói, uma comida, um lugar, um desenho, um jogo... use a criatividade! 
 
 Além disso, o projeto é uma ótima oportunidade para praticar:
 
@@ -42,7 +42,7 @@ Além disso, o projeto é uma ótima oportunidade para praticar:
    git push origin main
    ```
 7. Volte ao GitHub e abra um **Pull Request** para este repositório original.
-8. Aguarde sua contribuição ser analisada e incluída! ✅
+8. Aguarde sua contribuição ser analisada e incluída! 
 
 ---
 
@@ -74,5 +74,5 @@ Este projeto é educativo e aberto para colaboração de alunos e alunas interes
 
 ---
 
-**Vamos construir algo incrível juntos? 💻✨**  
+**Vamos construir algo incrível juntos? 
 Se você tiver dúvidas, pergunte nos comentários ou ao professor(a)!
